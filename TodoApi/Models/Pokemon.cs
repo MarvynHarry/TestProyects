@@ -9,5 +9,6 @@
         public bool Is_default { get; set; }
         public int Order { get; set; }
         public int Weight { get; set; }
+        public PokemonSprites Sprites { get; set; } = new ();
     }
 }

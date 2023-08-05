@@ -1,6 +1,4 @@
-﻿using Microsoft.Extensions.Configuration;
-using System.Net.Http.Json;
-using TodoApi.Interfaces;
+﻿using TodoApi.Interfaces;
 using TodoApi.Models;
 
 namespace TodoApi.Services
